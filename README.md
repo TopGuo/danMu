@@ -1,5 +1,5 @@
 # danMu
-学习下弹幕的简单制作.步骤详情可预览: <br/>
+学习下弹幕的简单制作.步骤详情可预览 [ 博客 ]( http://www.cnblogs.com/shaoting/p/7508975.html)   : <br/>
 截图如下: <br/>
 ![image](https://github.com/pheromone/danMu/blob/master/%E6%88%AA%E5%9B%BE/danmu.gif) <br/>
 <br/>
